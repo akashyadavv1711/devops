@@ -38,7 +38,7 @@ These instructions were tested on NetBeans 8.0.2. You can get it from https://ww
 
 To checkout and run the project in NetBeans, do:
 - Team -> Git -> Clone
-- Set repository URL to https://github.com/vaadin/addressbook.git
+- Set repository UR L to https://github.com/vaadin/addressbook.git
 - Finish
 - Right click the imported project (Vaadin Addressbook Application) and select Run
 - Select GlassFish Server 4.1 -> Remember in Current IDE Session -> OK
